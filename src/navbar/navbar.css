@@ -1,0 +1,22 @@
+.Navbar {
+  text-align: center;
+}
+
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #61dafb;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    display: inline;
+    margin: 8rem;
+  }
